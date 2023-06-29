@@ -8,7 +8,7 @@
 <br> 🔭 <a href="https://drive.google.com/file/d/1zDfum4igXJqPl2uXEmKSglrvWR_A-g5E/view?usp=sharing">Click here to check my resume</a>
  <br>🌱 I’m currently learning Automation testing<br>⚡ Fun fact :  I once discovered a critical bug by simply turning off and on the computer!
 </div>
-<div><br><br></div>
+<div><br><br><br></div>
 
 
 
