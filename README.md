@@ -1,10 +1,16 @@
-![MasterHead](https://gcdnb.pbrd.co/images/TKlvCbLGhESE.png?o=1)
-### Hi there 👋
+<p align="center">
+  <img src="https://gcdnb.pbrd.co/images/TKlvCbLGhESE.png?o=1" alt="MasterHead" width="90%">
+</p>
+
 <div>
-# 💫 About Me:
+<h1>💫 About Me:</h1>
   <img align="right" alt="coding" width="200" src="https://media.tenor.com/ARkcuYFJVesAAAAd/unit-testingnn.gif">
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<br> 🔭 <a href="https://drive.google.com/file/d/1zDfum4igXJqPl2uXEmKSglrvWR_A-g5E/view?usp=sharing">Click here to check my resume</a>
+ <br>🌱 I’m currently learning Automation testing<br>⚡ Fun fact :  I once discovered a critical bug by simply turning off and on the computer!
 </div>
+<div><br><br></div>
+
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/moaz.ayman) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moazayyman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moazayman) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCPLELYR0EI8L7HqTjlsswdQ) 
